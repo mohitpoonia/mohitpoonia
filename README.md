@@ -4,7 +4,7 @@ Here are some keywords 🗝️:
 
 1. CISC - Complex Instruction Set Computer- Closed source - intel, AMD
 2. RISC - Reduced Instruction Set Computer- Closed source - ARM
-3. RISC-V  - Open Source
+3. RISC-V  - It is an ISA based on reduced instruction set computer (RISC) principles. It is Open Source unlike the parent RISC.
 4. Kernel - programm to manage communication between software i.e. user-level applications and hardware i.e., CPU and disk memory  
 5. DNS - turns domain names into IP addresses, which allow browsers to get to websites and other internet resources.
 6. ISA - Instruction Set Architecture - hardware interaction - input-outputs, registers, data types

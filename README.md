@@ -19,14 +19,14 @@ Here are some keywords 🗝️:
                      https - 443
 9. SSL- Secure Socket Layer - IP Address + Port Number
 10. Seven Layers Of OSI(Open Systems Interconnection)
-                   |----- L7 - Application
-               TCP-|      L6 - Presentation
-                   |----- L5 - Cryptography
-                         L4 - Port Numbr
-                         L3 - IP Address
-                         L2 - Hardware Address - NIC, MAC Address
-                         L1 - Digital (1 and 0)
-BareMetal- Fresh Servers
+           a. L7 - Application
+           b. L6 - Presentation
+           c. L5 - Cryptography
+           d. L4 - Port Numbr
+           e. L3 - IP Address
+           f. L2 - Hardware Address - NIC, MAC Address
+           g. L1 - Digital (1 and 0)
+
 11. Virtual Machine - created by using Hypervisor
 12. FPGA - Field Programmable Gate Arrays  - Configurede after manufacturing
 13. Socket - Software structure within a network node of a computer network that serves as an endpoint for sending and receiving data across the network
@@ -45,3 +45,4 @@ Hagward Architecture
 23. VPN - It establishes a digital connection between your computer and a remote server owned by a VPN provider, creating a point-to-point tunnel that encrypts your personal data, masks your IP address, and lets you sidestep website blocks and firewalls on the internet.
 24. Cryptography - It is the practice and study of techniques for secure communication in the presence of adversarial behavior. It is about constructing and analyzing protocols that prevent third parties or the public from reading private messages. 
 25. Hypervisor - It is a type of computer software, firmware or hardware that creates and runs virtual machines.
+26. BareMetal- Fresh Servers

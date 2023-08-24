@@ -27,5 +27,19 @@ SSL- Secure Socket Layer - IP Address + Port Number
                          L3 - IP Address
                          L2 - Hardware Address - NIC, MAC Address
                          L1 - Digital (1 and 0)
-      
-                 
+BareMetal- Fresh Servers
+Virtual Machine - created by using Hypervisor
+FPGA - Field Programmable Gate Arrays  - Configurede after manufacturing
+Socket - Software structure within a network node of a computer network that serves as an endpoint for sending and receiving data across the network
+TCP - Transmission Control Protocol (TCP) is a standard that defines how to establish and maintain a network conversation by which applications can exchange data
+MAC Address - Media Access Control address is a unique identifier assigned for use as a network address in communications within a network segment.
+Protocol- It is a standardized set of rules for formatting and processing data.
+Firmware - It is a microcode or program that is embedded into the memory of hardware devices to help them operate
+TLS - Transport Layer Security encrypts data sent over the Internet
+Cache - a cache is a high-speed data storage layer which stores a subset of data (temporary mermory)
+
+Von Neuman Arch
+Hagward Arch
+
+Debian - Linux Software/OS Family
+

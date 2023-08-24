@@ -41,4 +41,7 @@ BareMetal- Fresh Servers
 Hagward Architecture 
 
 21. Debian - Linux Software/OS Family
-
+22. VMware Workstation - IT is a line of Desktop Hypervisor products which lets users run virtual machines, multiple OS
+23. VPN - It establishes a digital connection between your computer and a remote server owned by a VPN provider, creating a point-to-point tunnel that encrypts your personal data, masks your IP address, and lets you sidestep website blocks and firewalls on the internet.
+24. Cryptography - It is the practice and study of techniques for secure communication in the presence of adversarial behavior. It is about constructing and analyzing protocols that prevent third parties or the public from reading private messages. 
+25. Hypervisor - It is a type of computer software, firmware or hardware that creates and runs virtual machines.

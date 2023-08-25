@@ -11,7 +11,7 @@ Here are some keywords 🗝️:
 7. IP Addresss- Internet Protcol
  (IPv4,IPv6)     *Public IP - B/W Internet and Device, assigned by internet service provider to the device
 *Private IP - in a private network [starts with 10., 172.16, 192.168
-*Local IP - [starts with 127.00.0
+- Local IP - [starts with 127.00.0
 9. Port No. - a way to identify a specific process to which an internet or other network message is to be forwarded when it arrives at a server.[for http - 80
                      *SSH(Secure Shell) - 22
                      *SMTP - 25  

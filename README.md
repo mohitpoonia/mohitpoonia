@@ -9,23 +9,23 @@ Here are some keywords 🗝️:
 5. DNS - turns domain names into IP addresses, which allow browsers to get to websites and other internet resources.
 6. ISA - Instruction Set Architecture - hardware interaction - input-outputs, registers, data types
 7. IP Addresss- Internet Protcol (IPv4,IPv6)
-- Public IP - B/W Internet and Device, assigned by internet service provider to the device
+ - Public IP - B/W Internet and Device, assigned by internet service provider to the device
  - Private IP - in a private network [starts with 10., 172.16, 192.168
-- Local IP - [starts with 127.00.0
+ - Local IP - [starts with 127.00.0
 9. Port No. - a way to identify a specific process to which an internet or other network message is to be forwarded when it arrives at a server.[for http - 80
-                     *SSH(Secure Shell) - 22
-                     *SMTP - 25  
-                     *Telnet - 23
-                     *https - 443
+ - SSH(Secure Shell) - 22
+ - SMTP - 25  
+ - Telnet - 23
+ - https - 443
 10. SSL- Secure Socket Layer - IP Address + Port Number
 11. Seven Layers Of OSI(Open Systems Interconnection)
-- L7 - Application
-- L6 - Presentation
-- L5 - Cryptography
-- L4 - Port Numbr
--- L3 - IP Address
-- L2 - Hardware Address - NIC, MAC Address
-- L1 - Digital (1 and 0)
+ - L7 - Application
+ - L6 - Presentation
+ - L5 - Cryptography
+ - L4 - Port Numbr
+ - L3 - IP Address
+ - L2 - Hardware Address - NIC, MAC Address
+ - L1 - Digital (1 and 0)
 
 12. Virtual Machine - created by using Hypervisor
 13. FPGA - Field Programmable Gate Arrays  - Configurede after manufacturing

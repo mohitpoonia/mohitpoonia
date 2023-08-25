@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mohitpoonia
 - 👀 I’m interested in Cloud Computing
 Here are some keywords 🗝️:
-#BASIC KEYWORDS
+# BASIC KEYWORDS
 1. CISC - Complex Instruction Set Computer- Closed source - intel, AMD
 2. RISC - Reduced Instruction Set Computer- Closed source - ARM
 3. RISC-V  - It is an ISA based on reduced instruction set computer (RISC) principles. It is Open Source unlike the parent RISC.

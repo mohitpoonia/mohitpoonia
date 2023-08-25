@@ -13,7 +13,8 @@ Here are some keywords 🗝️:
  - Private IP - in a private network [starts with 10., 172.16, 192.168
  - Local IP - [starts with 127.00.0
 9. Port No. - a way to identify a specific process to which an internet or other network message is to be forwarded when it arrives at a server.[for http - 80
- - SSH(Secure Shell) - 22
+ -
+   - SSH(Secure Shell) - 22
  - SMTP - 25  
  - Telnet - 23
  - https - 443

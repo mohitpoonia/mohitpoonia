@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @mohitpoonia
 - 👀 I’m interested in Cloud Computing
 Here are some keywords 🗝️:
-
 #BASIC KEYWORDS
 1. CISC - Complex Instruction Set Computer- Closed source - intel, AMD
 2. RISC - Reduced Instruction Set Computer- Closed source - ARM

@@ -47,4 +47,24 @@ Hagward Architecture
 25. **Cryptography** - It is the practice and study of techniques for secure communication in the presence of adversarial behavior. It is about constructing and analyzing protocols that prevent third parties or the public from reading private messages. 
 26. **Hypervisor** - It is a type of computer software, firmware or hardware that creates and runs virtual machines.
 27. **BareMetal**- Fresh Servers
+# Often used Linux Commands
+1. **ls** - List directory content
+2. **cd** - Change directory
+3. **mkdir** - Make a new directory
+4. **rm**- Remove Files/Directories
+5. **mv** - Move or rename files or directories
+6. **chmod** - Change files or Directories permission 
+7. **cp** - Copy Files or Directories
+8. **chown** - Change file or directory ownership
+9. **top** - Display system process
+10. **cat** - Concatenate and siplay files
+11. **tar** - Create or extract archieve files
+12. **ps** - Display running Processes
+13. **kill** - Terminate Processes
+14. **pwd** - Present working Directory
+15. **sudo** - Execute Command as a superuser
+16. **ping** - Test Network Connectivity b/w hosts
+17. **du** - Estimate File Space Usage
+18. **vi & nano** - File editor
+19. **touch** - Create new File
 

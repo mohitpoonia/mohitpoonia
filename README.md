@@ -10,6 +10,13 @@ Here are some keywords 🗝️:
   - C
   - Rust
   - C++
+
+| Kernel Space  | User Space |
+| ------------- | ------------- |
+| System Interface  | Application Code  |
+| Generic Services  | C Library  |
+| Device Drivers  | -  |
+
 5. **DNS** - turns domain names into IP addresses, which allow browsers to get to websites and other internet resources.
 6. **ISA** - Instruction Set Architecture - hardware interaction - input-outputs, registers, data types
 7. **IP Addresss**- Internet Protcol (IPv4,IPv6)
@@ -54,7 +61,9 @@ Hagward Architecture
 29. **BareMetal**- Fresh Servers
 30. **IAM** - Identity and access management
 31. **nginx** - proxy server
-32. **apache** - client server - uses httpd(d stands for dameon:continuously runs in background) that createa a pool of child processes or threads to handle requests.
+32. **apache** - client server - uses httpd(d stands for dameon:continuously runs in background) that creates a pool of child processes or threads to handle requests.
+
+# Cloud Concepts
 
 # Often used Linux Commands
 1. **ls** - List directory content
@@ -63,7 +72,7 @@ Hagward Architecture
 4. **rm**- Remove Files/Directories
 5. **mv** - Move or rename files or directories
 6. **chmod** - Change files or Directories permission 
-- chmod *777* read, write and execute pemissions
+- chmod *777* command gives read, write and execute permissions
 7. **cp** - Copy Files or Directories
 8. **chown** - Change file or directory ownership
 9. **top** - Display system process
@@ -77,7 +86,7 @@ Hagward Architecture
 17. **du** - Estimate File Space Usage
 18. **vi & nano** - File editor
 19. **touch** - Create new File
-# Computing basic
+# Computing Basics
 1. **SSL Certificate** - Certificate which is statndard for all the domains *X.509*
    - Certifying Authority like Godaddy, Hostinger, Namecheap
    - Signing Certificate Algo is Cryptography : RSA, Elliptic Curve
@@ -85,3 +94,21 @@ Hagward Architecture
 3. **Router** - a device that connects two or more packet-switched networks or subnetworks.
 4. **Compiler** - computer software that translates (compiles) source code written in a high-level language (e.g., C++) into a set of machine-language instructions that can be understood by a digital computer's CPU
 5. **Interpreter** - A computer program that directly executes instructions written in a programming or scripting language, without requiring them previously to have been compiled into a machine language program.
+6. **Scheduling** - It is the action of assigning resources to perform tasks. The resources may be processors, network links or expansion cards. The tasks may be threads, processes or data flows.
+
+# Ubuntu Dirctories
+- */bin* - user Binaries
+- */sbin* - System Binaries
+- */etc* - Configuration Files
+- */dev* - Device Files
+- */proc* - Process Information
+- */var* - Variable Files
+- */tmp* - Temporary Files
+- */usr* - User Programs
+- */home* - Home Directories
+- */boot* - Boot Loader Files
+- */lib* - System Libraries
+- */opt* - Operational Application
+- */mnt* - Mount Directory
+- */media* - Removable Devices 
+- */srv* - Service Data

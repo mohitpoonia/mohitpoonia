@@ -47,6 +47,7 @@ Hagward Architecture
 25. **Cryptography** - It is the practice and study of techniques for secure communication in the presence of adversarial behavior. It is about constructing and analyzing protocols that prevent third parties or the public from reading private messages. 
 26. **Hypervisor** - It is a type of computer software, firmware or hardware that creates and runs virtual machines.
 27. **BareMetal**- Fresh Servers
+28. **IAM** - Identity and access management
 # Often used Linux Commands
 1. **ls** - List directory content
 2. **cd** - Change directory

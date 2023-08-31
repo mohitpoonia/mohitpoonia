@@ -96,7 +96,7 @@ Hagward Architecture
 5. **Interpreter** - A computer program that directly executes instructions written in a programming or scripting language, without requiring them previously to have been compiled into a machine language program.
 6. **Scheduling** - It is the action of assigning resources to perform tasks. The resources may be processors, network links or expansion cards. The tasks may be threads, processes or data flows.
 
-# Ubuntu Dirctories
+# Ubuntu Directories
 - */bin* - user Binaries
 - */sbin* - System Binaries
 - */etc* - Configuration Files

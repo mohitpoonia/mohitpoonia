@@ -75,7 +75,8 @@ Hogwarts Architecture
 32. **apache** - client server - uses httpd(d stands for dameon:continuously runs in background) that creates a pool of child processes or threads to handle requests.
 33. **ASICs** - *(Application-Specific Integrated Circuits)* are computer chips that combine several different circuits all on one chip – it's a "system-on-a-chip" (SoC) design – allowing it to be custom programmed to combine several related functions that together carry out a specific overall task.
 34. **UDP** - User Datagram Protocol, is a communication protocol used across the Internet for especially time-sensitive transmissions such as video playback or DNS lookups
-35. **Packets** - a packet is a small segment of a larger message. Data sent over computer networks, such as the Internet, is divided into packets, recombined by te client computer 
+35. **Packets** - a packet is a small segment of a larger message. Data sent over computer networks, such as the Internet, is divided into packets, recombined by te client computer
+36. **Load Balance** - Load balancing is the method of distributing network traffic equally across a pool of resources that support an application.
 
 # Cloud Concepts
 ### Use Cases
@@ -102,6 +103,8 @@ Hogwarts Architecture
 3. Accessibility
 4. Cost effective
 5. Go global in minutes
+### OOPs Concept
+![xa drawio](https://github.com/mohitpoonia/mohitpoonia/assets/142895350/0de31adc-f2c9-4a1e-aa9b-c1acc5486e8d)
 
 # Often used Linux Commands
 1. **ls** - List directory content

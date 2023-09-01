@@ -18,6 +18,9 @@ Here are some keywords 🗝️:
 | Device Drivers  | -  |
 
 5. **DNS** - turns domain names into IP addresses, which allow browsers to get to websites and other internet resources.
+
+<img width="539" alt="Screenshot 2023-09-01 182634" src="https://github.com/mohitpoonia/mohitpoonia/assets/142895350/2186fbfa-e058-4b8d-b750-4ba0a04ec790">
+
 6. **ISA** - Instruction Set Architecture - hardware interaction - input-outputs, registers, data types
 7. **IP Addresss**- Internet Protcol (IPv4,IPv6)
  - Public IP - B/W Internet and Device, assigned by internet service provider to the device
@@ -37,6 +40,7 @@ Here are some keywords 🗝️:
  - L3 - IP Address (32 Bits) : Router
  - L2 - Hardware Address - NIC, MAC Address(48 Bits) : Ethernet :*SWITCH*
  - L1 - Digital (1 and 0)
+
 
 12. **Switch** - connects devices in a network to each other, enabling them to talk by exchanging data packets.
 13. **Virtual Machine** - created by using Hypervisor

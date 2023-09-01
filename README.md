@@ -58,10 +58,16 @@ Hogwarts Architecture
 26. **VPN** - It establishes a digital connection between your computer and a remote server owned by a VPN provider, creating a point-to-point tunnel that encrypts your personal data, masks your IP address, and lets you sidestep website blocks and firewalls on the internet.
 27. **Cryptography** - It is the practice and study of techniques for secure communication in the presence of adversarial behavior. It is about constructing and analyzing protocols that prevent third parties or the public from reading private messages. 
 28. **Hypervisor** - It is a type of computer software, firmware or hardware that creates and runs virtual machines.
+| Type I  | Type II |
+| ------------- | ------------- |
+| Native (bare metal  | Hosted  |
+| Directly on hardware and runs guest OS  | Runs on oreviously installed OS  |
+| acts as light weight as it runs directly  | runs as software like other computer programs  |
 29. **BareMetal**- Fresh Servers
 30. **IAM** - Identity and access management
 31. **nginx** - proxy server
 32. **apache** - client server - uses httpd(d stands for dameon:continuously runs in background) that creates a pool of child processes or threads to handle requests.
+33. **ASICs** - *(Application-Specific Integrated Circuits)* are computer chips that combine several different circuits all on one chip – it's a "system-on-a-chip" (SoC) design – allowing it to be custom programmed to combine several related functions that together carry out a specific overall task.
 
 # Cloud Concepts
 ### Use Cases

@@ -114,7 +114,7 @@ Hogwarts Architecture
 1. **SSL Certificate** - Certificate which is statndard for all the domains *X.509*
    - Certifying Authority like Godaddy, Hostinger, Namecheap
    - Signing Certificate Algo is Cryptography : RSA, Elliptic Curve
-2. **NAT** - Network Address Transltion : Convert Private IP Address to public IP Address & vice-versa
+2. **NAT** - Network Address Translation : Convert Private IP Address to public IP Address & vice-versa
 3. **Router** - a device that connects two or more packet-switched networks or subnetworks.
 4. **Compiler** - computer software that translates (compiles) source code written in a high-level language (e.g., C++) into a set of machine-language instructions that can be understood by a digital computer's CPU
 5. **Interpreter** - A computer program that directly executes instructions written in a programming or scripting language, without requiring them previously to have been compiled into a machine language program.

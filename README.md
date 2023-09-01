@@ -61,8 +61,8 @@ Hogwarts Architecture
 
 | Type I  | Type II |
 | ------------- | ------------- |
-| Native (bare metal  | Hosted  |
-| Directly on hardware and runs guest OS  | Runs on oreviously installed OS  |
+| Native (bare metal)  | Hosted  |
+| Directly on hardware and runs guest OS  | Runs on previously installed OS  |
 | acts as light weight as it runs directly  | runs as software like other computer programs  |
 
 29. **BareMetal**- Fresh Servers
@@ -70,6 +70,8 @@ Hogwarts Architecture
 31. **nginx** - proxy server
 32. **apache** - client server - uses httpd(d stands for dameon:continuously runs in background) that creates a pool of child processes or threads to handle requests.
 33. **ASICs** - *(Application-Specific Integrated Circuits)* are computer chips that combine several different circuits all on one chip – it's a "system-on-a-chip" (SoC) design – allowing it to be custom programmed to combine several related functions that together carry out a specific overall task.
+34. **UDP** - User Datagram Protocol, is a communication protocol used across the Internet for especially time-sensitive transmissions such as video playback or DNS lookups
+35. **Packets** - a packet is a small segment of a larger message. Data sent over computer networks, such as the Internet, is divided into packets, recombined by te client computer 
 
 # Cloud Concepts
 ### Use Cases
@@ -122,6 +124,7 @@ Hogwarts Architecture
 1. **SSL Certificate** - Certificate which is statndard for all the domains *X.509*
    - Certifying Authority like Godaddy, Hostinger, Namecheap
    - Signing Certificate Algo is Cryptography : RSA, Elliptic Curve
+- *OpenSSL* is an open-source command line tool that is commonly used to generate private keys, create CSRs, install your SSL/TLS certificate, and identify certificate information. 
 2. **NAT** - Network Address Translation : Convert Private IP Address to public IP Address & vice-versa
 3. **Router** - a device that connects two or more packet-switched networks or subnetworks.
 4. **Compiler** - computer software that translates (compiles) source code written in a high-level language (e.g., C++) into a set of machine-language instructions that can be understood by a digital computer's CPU
@@ -144,3 +147,12 @@ Hogwarts Architecture
 - */mnt* - Mount Directory
 - */media* - Removable Devices 
 - */srv* - Service Data
+## Blockchain
+- Satoshi Nakamoto is the creator of Blockchain
+- Blockchain technology is an advanced database mechanism that allows transparent information sharing within a business network.
+- Blockchain helps in the verification and traceability of multistep transactions needing verification and traceability.
+- Blockchain uses the three principles of cryptography, decentralization, and consensus to create a highly secure underlying software system that is nearly impossible to tamper with.
+#### Currency
+- Cryptocurrencies are digital currencies that use cryptography to secure and verify transactions in a network. Cryptography is also used to manage and control the creation of such currencies : *Bitcoin and Ethereum*
+- Virtual currencies are a form of digital currency. They are issued by private parties, such as a group of developers or organizations, and are intended only for online use
+ - *ICO* - An initial coin offering (ICO) is the cryptocurrency industry's equivalent of an initial public offering (IPO) used in order to raise capital

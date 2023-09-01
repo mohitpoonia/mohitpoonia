@@ -51,7 +51,7 @@ Here are some keywords 🗝️:
 22. **STACK** - Stack is a linear data structure that follows a particular order in which the operations are performed. **LIFO** (Last In First Out)
 
 23. Von Neuman Architecture 
-Hagward Architecture 
+Hogwarts Architecture 
 
 24. **Debian** - Linux Software/OS Family
 25. **VMware Workstation** - IT is a line of Desktop Hypervisor products which lets users run virtual machines, multiple OS

@@ -104,7 +104,7 @@ Hogwarts Architecture
 4. Cost effective
 5. Go global in minutes
 ### OOPs Concept
-![xa drawio](https://github.com/mohitpoonia/mohitpoonia/assets/142895350/0de31adc-f2c9-4a1e-aa9b-c1acc5486e8d)
+![xa drawio](https://github.com/mohitpoonia/mohitpoonia/assets/142895350/abde0c1e-9e1e-4765-8a40-d2ef0c4a0b4e)
 
 # Often used Linux Commands
 1. **ls** - List directory content

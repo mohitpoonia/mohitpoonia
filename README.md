@@ -46,7 +46,7 @@ Here are some keywords 🗝️:
 17. **MAC Address** - Media Access Control address is a unique identifier assigned for use as a network address in communications within a network segment.
 18. **Protocol**- It is a standardized set of rules for formatting and processing data.
 19. **Firmware** - It is a microcode or program that is embedded into the memory of hardware devices to help them operate
-20. **TLS** - Transport Layer Security encrypts data sent over the Internet
+20. **TLS** - Transport Layer Security encrypts data sent over the Internet : Version 1.3
 21. **Cache** - a cache is a high-speed data storage layer which stores a subset of data (temporary mermory)
 22. **STACK** - Stack is a linear data structure that follows a particular order in which the operations are performed. **LIFO** (Last In First Out)
 

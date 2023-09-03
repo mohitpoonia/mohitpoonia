@@ -59,14 +59,16 @@ Here are some keywords 🗝️:
 21. **Cache** - a cache is a high-speed data storage layer which stores a subset of data (temporary mermory)
 22. **STACK** - Stack is a linear data structure that follows a particular order in which the operations are performed. **LIFO** (Last In First Out)
 
-23. Von Neuman Architecture 
-Hogwarts Architecture 
+23. Von Neuman Architecture **VS** Harvard Architecture 
 
-24. **Debian** - Linux Software/OS Family
-25. **VMware Workstation** - IT is a line of Desktop Hypervisor products which lets users run virtual machines, multiple OS
-26. **VPN** - It establishes a digital connection between your computer and a remote server owned by a VPN provider, creating a point-to-point tunnel that encrypts your personal data, masks your IP address, and lets you sidestep website blocks and firewalls on the internet.
-27. **Cryptography** - It is the practice and study of techniques for secure communication in the presence of adversarial behavior. It is about constructing and analyzing protocols that prevent third parties or the public from reading private messages. 
-28. **Hypervisor** - It is a type of computer software, firmware or hardware that creates and runs virtual machines.
+![MergedImages](https://github.com/mohitpoonia/mohitpoonia/assets/142895350/0c89419c-74ba-4024-94e4-f751d391bb8d)
+
+
+25. **Debian** - Linux Software/OS Family
+26. **VMware Workstation** - IT is a line of Desktop Hypervisor products which lets users run virtual machines, multiple OS
+27. **VPN** - It establishes a digital connection between your computer and a remote server owned by a VPN provider, creating a point-to-point tunnel that encrypts your personal data, masks your IP address, and lets you sidestep website blocks and firewalls on the internet.
+28. **Cryptography** - It is the practice and study of techniques for secure communication in the presence of adversarial behavior. It is about constructing and analyzing protocols that prevent third parties or the public from reading private messages. 
+29. **Hypervisor** - It is a type of computer software, firmware or hardware that creates and runs virtual machines.
 
 | Type I  | Type II |
 | ------------- | ------------- |

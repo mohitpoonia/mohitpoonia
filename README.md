@@ -18,6 +18,11 @@ Here are some keywords 🗝️:
 | Device Drivers  | -  |
 
 5. **DNS** - turns domain names into IP addresses, which allow browsers to get to websites and other internet resources.
+- How DNS Work
+
+
+
+### DNS Record Names
 
 <img width="539" alt="Screenshot 2023-09-01 182634" src="https://github.com/mohitpoonia/mohitpoonia/assets/142895350/2186fbfa-e058-4b8d-b750-4ba0a04ec790">
 

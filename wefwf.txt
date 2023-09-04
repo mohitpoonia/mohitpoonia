@@ -1,0 +1,45 @@
+    1  curl -sL https://github.com/ShubhamTatvamasi/docker-install/raw/master/docker-install.sh | bash
+    2  sudo apt update
+    3  sudo apt install -y     apt-transport-https     ca-certificates     curl     gnupg     lsb-release     jqsudo apt update
+    4  sudo apt install -y     apt-transport-https     ca-certificates     curl     gnupg     lsb-release     jq
+    5  curl -fsSL https://download.docker.com/linux/ubuntu/gpg | sudo gpg --dearmor -o /usr/share/keyrings/docker-archive-keyring.gpg
+    6  y
+    7  curl -fsSL https://download.docker.com/linux/ubuntu/gpg | sudo gpg --dearmor -o /usr/share/keyrings/docker-archive-keyring.gpg
+    8  echo   "deb [arch=amd64 signed-by=/usr/share/keyrings/docker-archive-keyring.gpg] https://download.docker.com/linux/ubuntu \
+  $(lsb_release -cs) stable" | sudo tee /etc/apt/sources.list.d/docker.list > /dev/null
+    9  sudo apt update
+   10  sudo apt install -y docker-ce docker-ce-cli containerd.io
+   11  sudo usermod -aG docker $USER
+   12  COMPOSE_VERSION=$(curl -s "https://api.github.com/repos/docker/compose/tags" | jq -r '.[0].name')
+   13  sudo curl -L "https://github.com/docker/compose/releases/download/${COMPOSE_VERSION}/docker-compose-$(uname -s)-$(uname -m)"   -o /usr/local/bin/docker-compose
+   14  sudo chmod +x /usr/local/bin/docker-compose
+   15  docker pull hello-world
+   16  sudo apt update
+   17  sudo apt install -y     apt-transport-https     ca-certificates     curl     gnupg     lsb-release     jq~
+   18  sudo apt update
+   19  sudo apt install -y     apt-transport-https     ca-certificates     curl     gnupg     lsb-release     jq
+   20  curl -fsSL https://download.docker.com/linux/ubuntu/gpg | sudo gpg --dearmor -o /usr/share/keyrings/docker-archive-keyring.gpg
+   21  y
+   22  [[ "$(uname -m)" == "aarch64" ]] && CPU_ARCH=arm64 || CPU_ARCH=amd64
+   23  docker pull hello-world
+   24  sudo apt update
+   25  sudo apt install -y docker-ce docker-ce-cli containerd.io
+   26  sudo usermod -aG docker $USER
+   27  COMPOSE_VERSION=$(curl -s "https://api.github.com/repos/docker/compose/tags" | jq -r '.[0].name')
+   28  sudo curl -L "https://github.com/docker/compose/releases/download/${COMPOSE_VERSION}/docker-compose-$(uname -s)-$(uname -m)"   -o /usr/local/bin/docker-compose
+   29  sudo chmod +x /usr/local/bin/docker-compose
+   30  docker pull hello-world
+   31  atp install inginxsudo apt update
+   32  sudo apt install apache2
+   33  apache2 -version
+   34  docker pull httpd
+   35  docker run -d --name [container-name] -p 80:[host-port] httpd
+   36  docker run -d --name apache -p 80:80 httpd
+   37  http://localhost:[host-port]
+   38  docker pull ubuntu/apache2
+   39  hisory
+   40  history
+   41  54.174.176.2754.174.176.2754.
+   42  docker images
+   43  docker ps
+   44  history

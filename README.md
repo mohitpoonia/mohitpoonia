@@ -84,6 +84,18 @@ Here are some keywords 🗝️:
 34. **UDP** - User Datagram Protocol, is a communication protocol used across the Internet for especially time-sensitive transmissions such as video playback or DNS lookups
 35. **Packets** - a packet is a small segment of a larger message. Data sent over computer networks, such as the Internet, is divided into packets, recombined by te client computer
 36. **Load Balance** - Load balancing is the method of distributing network traffic equally across a pool of resources that support an application.
+37. **Server** - a computer program or device that provides a service to another computer program and its user, also known as the client.
+- *Client Server* - A relationship in which one program, the client, requests a service or resource from another program, the server. **EX** - email, network printing, and the World Wide Web
+- *Proxy Server* - A server that acts as an intermediary between the request made by clients **EX** - an HTTP proxy intercepts web access, and an SMTP proxy intercepts email
+
+| Forward Proxy  | Reverse Proxy |
+| ------------- | ------------- |
+| It accepts connections from computers on a private network and forwards those requests to the public internet.   | Public access point for users to access data and information that is stored on servers that reside in a private, isolated subnet.  |
+| Acts as single point of exit for subnet users who want to access resources outside of their private network.  | Acts as a single point of entry for external systems to access resources on a private subnet.  |
+| Banks and insurance companies, and government agencies use it to protects corporate computers from outside attacks from this isolation  | Large websites and content delivery networks to balance the load between internal servers.  |
+
+<img width="770" alt="Screenshot 2023-09-09 184801" src="https://github.com/mohitpoonia/mohitpoonia/assets/142895350/c6604204-12f3-4cc4-955e-b5fc58581324">
+
 
 # Cloud Concepts
 ### Use Cases
@@ -170,3 +182,20 @@ Here are some keywords 🗝️:
 - Cryptocurrencies are digital currencies that use cryptography to secure and verify transactions in a network. Cryptography is also used to manage and control the creation of such currencies : *Bitcoin and Ethereum*
 - Virtual currencies are a form of digital currency. They are issued by private parties, such as a group of developers or organizations, and are intended only for online use
  - *ICO* - An initial coin offering (ICO) is the cryptocurrency industry's equivalent of an initial public offering (IPO) used in order to raise capital
+
+38. **Types of Computing**
+- *Desktop Computing* - Desktop computing devices include workstations, personal computers, and network computing devices. A workstation or desktop personal computer does not have many resource restrictions when connected to a fixed network.
+- *Centralised Computing* - System where all processing and data storage is handled by a single, central device or system which is responsible for processing all requests and managing all data, and all other devices in the system are connected to it.
+  - Used in Traditional Mainframe (data repository, or hub connected through terminals) systems, Network Servers
+- *Decentralised Computing* - In decentralized systems, every node makes its own decision. The final behavior of the system is the aggregate of the decisions of the individual nodes. There is no single entity that manages request
+  - Blockchain, Decentralized databases – Entire databases split into parts, Cryptocurrency
+- *Distributed Computing* - It is a collection of computer programs that utilize computational resources across multiple, separate computation nodes to achieve a common, shared goal. It relies on separate nodes to communicate and synchronize over a common network.
+  - SOA-based systems(service-oriented-architecture) {CRM, ERP}, Multiplayer online games
+- *Edge Computing* - It allows smart applications and devices to respond to data almost at the same time which is important in terms of business ad self-driving cars.It has the ability to process data without even putting it on a public cloud, this ensures full security.
+  - Use Cases - In-hospital patient monitoring, Virtualised radio networks and 5G (vRAN), Cloud gaming
+39. **Port Forwarding** - It allows computers or services in private networks to connect over the internet with other public or private computers or services.
+
+<img width="954" alt="imgonline-com-ua-twotoone-j5RFVzct9Fdm6jp" src="https://github.com/mohitpoonia/mohitpoonia/assets/142895350/a30d5771-4f90-404f-8ffc-cab40cc8f98a">
+
+39. **Cluster** - a group of inter-connected computers or hosts that work together to support applications and middleware (e.g. databases). each computer/host referred as node and each node is assigned same task which help in efficiency and load balancing
+40. **Design Patterns** - A design pattern systematically names, motivates, and explains a general design that addresses a recurring design problem in object-oriented systems. It describes the problem, the solution, when to apply the solution, and its consequences. It also gives implementation hints and examples.

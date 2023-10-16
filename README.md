@@ -199,3 +199,73 @@ Here are some keywords 🗝️:
 
 39. **Cluster** - a group of inter-connected computers or hosts that work together to support applications and middleware (e.g. databases). each computer/host referred as node and each node is assigned same task which help in efficiency and load balancing
 40. **Design Patterns** - A design pattern systematically names, motivates, and explains a general design that addresses a recurring design problem in object-oriented systems. It describes the problem, the solution, when to apply the solution, and its consequences. It also gives implementation hints and examples.
+41. **REST API**
+    
+| REST is a set of architectural constraints, not a protocol or a standard. API developers can implement REST in a variety of ways.|
+| ------------- |
+| When a client request is made via a RESTful API, it transfers a representation of the state of the resource to the requester or endpoint. This information, or representation, is delivered in one of several formats via HTTP: JSON (Javascript Object Notation), HTML, XLT, Python, PHP, or plain text.|
+
+42. **HTTPS 1** vs **HTTP 2**
+
+  | HTTP/1.1  | HTTP/2 |
+  |--------------|--------------|
+| It works on the textual format.	 | It works on the binary protocol. |
+| There is head of line blocking that blocks all the requests behind it until it doesn’t get its all resources.	 | It allows multiplexing so one TCP connection is required for multiple requests. |
+| It uses requests resource Inlining for use getting multiple pages	  | It uses PUSH frame by server that collects all multiple pages  |
+| It compresses data by itself.	  | It uses HPACK for data compression. |
+
+43. **etcd** - It is an open source distributed key-value store used to hold and manage the critical information that distributed systems need to keep running. Most notably, it manages the configuration data, state data, and metadata for Kubernetes, the popular container orchestration platform.
+44. **Ceph** - Ceph is an open-source software-defined storage platform that provides object, block, and file storage. It's designed to be self-healing and self-managed, and it can run on any hardware Ceph is maintained by RedHat. It's built on a common distributed cluster foundation. The clusters are designed to run on any hardware with the help of an algorithm called CRUSH (Controlled Replication Under Scalable Hashing).
+45. **OvS** - Open vSwitch (OVS) is an open-source, virtual multilayer switch that provides a switching stack for hardware virtualization environments. OVS is a software switch that turns a Linux server into a switch. It's designed to enable network automation through programmatic extension.
+46. **Rancher** - Rancher is an open-source software platform that allows organizations to run containers in production. Rancher can be used to:
+- Run containers in production
+- Operate Docker in production
+- Deploy and run clusters anywhere and on any provider
+- Divide a cluster into separate "virtual clusters" that each have their own access control and resource quotas
+47. **Cilium** - Cilium is a highly scalable Kubernetes Container Network Interface (CNI). It provides cloud-native networking connectivity, security, and observability for container-based workloads, such as in Kubernetes and Docker. It provides visibility and control over network traffic, and offers advanced security features.
+48. **Proxmox** - Proxmox Virtual Environment (Proxmox VE) is an open-source server management platform for enterprise virtualization.Proxmox VE offers the ability to: 
+- Manage two virtualization technologies: KVM for virtual machines and LXC for containers
+- Manage virtual server (VPS) technology with the Linux OpenVZ and KVM technologies
+- Install different operating systems on a single computer or a cluster built by grouping computers together
+49. **XEN** - Xen is a free and open-source hypervisor that allows multiple operating systems to run on the same hardware at the same time. Xen inserts a virtualization layer between the system hardware and the virtual machines. Xen is a type-1 hypervisor, which means it can be installed directly on hardware without the need for a host operating system. It controls, monitors, and manages hardware, peripheral, and I/O resources directly.
+  - AWS is believed to be the only major service provider working at scale that uses Xen.
+50. **GreenField** vs **Brownfield Application**
+
+| Greenfield | Brownfield|
+|--------------|--------------|
+| greenfield applications are applications that are not yet made or are in the early stages of development | brownfield applications are existing applications |
+| Greenfield applications are new developments with no prior work done that poses constraints on the solution. | Brownfield applications are existing applications that utilize previously developed land to make better use of existing sites.  |
+
+51. **Web3 Decentralisation** - Web3 is a decentralized version of the internet that allows users to own their own data. It's also known as the decentralized web or the third generation of the internet. 
+- Blockchain, which is a decentralized digital ledger of transactions that uses cryptography to secure and verify each transaction
+- Decentralized applications (dApps), which are interconnected blockchain-based applications that enable users to interact with each other without the need for intermediaries
+Web3 is designed to be: 
+- Permissionless (no centralized gatekeepers)
+- Trustless (no need to place trust in a third party)
+- Open to all (little-to-no censorship of individuals/ideas)
+52. **Digital Identities** - Digital identities allow people to identify themselves and facilitate transactions in the digital world. They can be set up once and reused whenever someone is asked to prove their identity. 
+Digital identities can raise important questions about: 
+- The balance between privacy and security
+- The rights of individuals to control their own data
+- The impact on social relationships
+53. **VectorDB** - VectorDB is a Python package that stores and retrieves text using chunking, embedding, and vector search techniques. It's designed for use cases where low latency is essential. 
+VectorDB provides an easy-Hyper-converged infrastructure (HCI) is a software-defined IT infrastructure that combines servers and storage into a single cluster. HCI uses intelligent software to create flexible building blocks that replace legacy infrastructureto-use interface for: 
+- Saving, searching, and managing textual data with associated metadata
+- Managing, querying, and retrieving high-dimensional vector data efficiently
+- Working with vector data just like how you work with regular Python objects
+- A comprehensive suite of CRUD (Create, Read, Update, Delete) operations
+- Robust scalability options
+54. **eBPF** - BPF stands for Extended Berkeley Packet Filter. It's a lightweight virtual machine that runs sandboxed programs in a Linux kernel. eBPF allows programs to run without modifying the kernel source code or installing any additional modules. 
+It's used to: 
+- Extend the capabilities of the kernel
+- Control, monitor, and analyze system behavior
+- Attach small, efficient programs to various kernel hooks
+- Run programs upon triggering of an event
+55. **HCI** - Hyper-converged infrastructure (HCI) is a software-defined IT infrastructure that combines servers and storage into a single cluster. HCI uses intelligent software to create flexible building blocks that replace legacy infrastructure.
+  HCI includes: 
+- Virtualized computing (a hypervisor)
+- Software-defined storage
+- Virtualized networking (software-defined networking)
+- Direct-attached storage media (HDDs, SSDs, NVMe)
+HCI unifies the datacenter stack elements into an abstracted layer of available IT resources.
+56. **DHCP** - Dynamic Host Configuration Protocol (DHCP) is a network protocol that automatically assigns IP addresses to devices on a network. DHCP uses a client-server architecture to provide configuration information such as: IP address, Default route, DNS server addresses, Subnet mask, Default gateway. 

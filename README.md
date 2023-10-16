@@ -229,6 +229,11 @@ Here are some keywords 🗝️:
 - Install different operating systems on a single computer or a cluster built by grouping computers together
 49. **XEN** - Xen is a free and open-source hypervisor that allows multiple operating systems to run on the same hardware at the same time. Xen inserts a virtualization layer between the system hardware and the virtual machines. Xen is a type-1 hypervisor, which means it can be installed directly on hardware without the need for a host operating system. It controls, monitors, and manages hardware, peripheral, and I/O resources directly.
   - AWS is believed to be the only major service provider working at scale that uses Xen.
+
+**APIs**
+![6b437484-1fd8-4b59-ba05-46bb3352b053_2904x2559](https://github.com/mohitpoonia/mohitpoonia/assets/142895350/80e009f8-092b-4c12-883c-b2513eb92b78)
+
+
 50. **GreenField** vs **Brownfield Application**
 
 | Greenfield | Brownfield|

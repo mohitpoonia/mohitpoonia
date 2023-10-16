@@ -274,3 +274,10 @@ It's used to:
 - Direct-attached storage media (HDDs, SSDs, NVMe)
 HCI unifies the datacenter stack elements into an abstracted layer of available IT resources.
 56. **DHCP** - Dynamic Host Configuration Protocol (DHCP) is a network protocol that automatically assigns IP addresses to devices on a network. DHCP uses a client-server architecture to provide configuration information such as: IP address, Default route, DNS server addresses, Subnet mask, Default gateway. 
+57. **Terraform** - Terraform is an open-source tool that automates infrastructure tasks. It's used by DevOps teams to provision cloud resources.
+Terraform allows users to: 
+- Build infrastructure through code
+- Manage infrastructure, platforms, and services
+- Build, change, and version infrastructure safely and efficiently
+- Automatically manage configuration, plugins, and state
+- Add all config files into a VCS to safely manage and track changes

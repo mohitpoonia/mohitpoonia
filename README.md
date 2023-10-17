@@ -79,6 +79,7 @@ Here are some keywords 🗝️:
 29. **BareMetal**- Fresh Servers
 30. **IAM** - Identity and access management
 31. **nginx** - proxy server
+
 32. **apache** - client server - uses httpd(d stands for dameon:continuously runs in background) that creates a pool of child processes or threads to handle requests.
 33. **ASICs** - *(Application-Specific Integrated Circuits)* are computer chips that combine several different circuits all on one chip – it's a "system-on-a-chip" (SoC) design – allowing it to be custom programmed to combine several related functions that together carry out a specific overall task.
 34. **UDP** - User Datagram Protocol, is a communication protocol used across the Internet for especially time-sensitive transmissions such as video playback or DNS lookups
@@ -97,7 +98,7 @@ Here are some keywords 🗝️:
 <img width="770" alt="Screenshot 2023-09-09 184801" src="https://github.com/mohitpoonia/mohitpoonia/assets/142895350/c6604204-12f3-4cc4-955e-b5fc58581324">
 
 
-# Cloud Concepts
+# ▶️Cloud Concepts
 ### Use Cases
 1. Fraud Detection and Prevention
 2. Personalized Treatments
@@ -125,7 +126,7 @@ Here are some keywords 🗝️:
 ### OOPs Concept
 ![xa drawio](https://github.com/mohitpoonia/mohitpoonia/assets/142895350/abde0c1e-9e1e-4765-8a40-d2ef0c4a0b4e)
 
-# Often used Linux Commands
+# ▶️Often used Linux Commands
 1. **ls** - List directory content
 2. **cd** - Change directory
 3. **mkdir** - Make a new directory
@@ -157,7 +158,7 @@ Here are some keywords 🗝️:
 5. **Interpreter** - A computer program that directly executes instructions written in a programming or scripting language, without requiring them previously to have been compiled into a machine language program.
 6. **Scheduling** - It is the action of assigning resources to perform tasks. The resources may be processors, network links or expansion cards. The tasks may be threads, processes or data flows.
 
-# Ubuntu Directories
+# ▶️Ubuntu Directories
 - */bin* - user Binaries
 - */sbin* - System Binaries
 - */etc* - Configuration Files
@@ -183,7 +184,7 @@ Here are some keywords 🗝️:
 - Virtual currencies are a form of digital currency. They are issued by private parties, such as a group of developers or organizations, and are intended only for online use
  - *ICO* - An initial coin offering (ICO) is the cryptocurrency industry's equivalent of an initial public offering (IPO) used in order to raise capital
 
-38. **Types of Computing**
+38. ▶️**Types of Computing**
 - *Desktop Computing* - Desktop computing devices include workstations, personal computers, and network computing devices. A workstation or desktop personal computer does not have many resource restrictions when connected to a fixed network.
 - *Centralised Computing* - System where all processing and data storage is handled by a single, central device or system which is responsible for processing all requests and managing all data, and all other devices in the system are connected to it.
   - Used in Traditional Mainframe (data repository, or hub connected through terminals) systems, Network Servers
@@ -281,3 +282,42 @@ Terraform allows users to:
 - Build, change, and version infrastructure safely and efficiently
 - Automatically manage configuration, plugins, and state
 - Add all config files into a VCS to safely manage and track changes
+### ▶️ NETWORK
+58. **TAP** - A network tap (TAP) is a hardware device that allows you to monitor and access data that is transmitted over a network. TAP stands for "Traffic Access Point" or "Test Access Point".
+Network taps are typically used in network security applications to: 
+- Monitor traffic
+- Identify malicious activity or security threats
+- Enable monitoring and analysis without interrupting data transmission
+59. **CNI** - Container Network Interface (CNI) is a framework that configures networking resources dynamically.It enables communication and connectivity between containers and external networks. 
+CNI uses a group of libraries and specifications written in Go. The plugin specification defines an interface for: 
+- Configuring the network
+- Provisioning IP addresses
+- Maintaining connectivity with multiple hosts
+60. **Flannel** - Flannel is an open source CNI plugin that: 
+- Creates and manages subnets
+- Assigns a separate subnet to each Kubernetes cluster node
+- Assigns an internal IP address
+61. **Overlay** - Overlay networking is a method of using software to create layers of network abstraction on top of a physical network. These layers can be used to run multiple separate, virtualized network layers.
+The purpose of an overlay network is to: 
+- Add missing functionality without a complete network redesign
+- Provide new applications or security benefits
+- Deploy flexible services based on ever-changing connectivity and mobility demands of the endpoints and applications
+62. **Tunnel** - a tunnel is a connection between two computer networks that allows data to be sent from one network to another through an encrypted link. Tunneling works by encapsulating packets, or wrapping packets inside of other packets. 
+Tunneling is used to: 
+- Transfer data securely from one network to another
+- Transport data across a network using protocols that are not supported by that network
+- Allow private network communications to be sent across a public network, such as the Internet
+- Have data authenticated, or authenticated and encrypted
+63. **TUN** - TUN stands for network TUNnel. It's a virtual interface that simulates a network layer device. TUN operates on layer 3 of the OSI model
+TUN can tunnel data packets of varied nature, including: 
+- Raw TCP - Raw TCP/IP is an insecure communication protocol. It's used to: 
+  - Open a TCP socket-level connection over Port 9100
+  - Stream a print-ready file to the printer input buffer
+- UDP - a communication protocol used across the Internet for especially time-sensitive transmissions such as video playback or DNS lookups.
+- SCTP -  a transport-layer protocol that ensures reliable, in-sequence transport of data
+- Encapsulated packets such as PPP, PPTP, AH/IPSEC
+64. **OSI Model**
+  ![osi model](https://github.com/mohitpoonia/mohitpoonia/assets/142895350/fd698805-5ade-4644-b014-ca4c762b3fc6)
+65. **Load Balancing Algorithms**
+  ![lb-algorithms](https://github.com/mohitpoonia/mohitpoonia/assets/142895350/4432276d-5f25-4630-a6e0-ac69a6112167)
+66. 

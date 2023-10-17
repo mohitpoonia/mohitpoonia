@@ -320,4 +320,11 @@ TUN can tunnel data packets of varied nature, including:
   ![osi model](https://github.com/mohitpoonia/mohitpoonia/assets/142895350/fd698805-5ade-4644-b014-ca4c762b3fc6)
 65. **Load Balancing Algorithms**
   ![lb-algorithms](https://github.com/mohitpoonia/mohitpoonia/assets/142895350/4432276d-5f25-4630-a6e0-ac69a6112167)
-66. 
+66. **KubeVirt** - KubeVirt is an open-source project that allows virtual machines (VMs) and containerized workloads to coexist within Kubernetes clusters.
+  KubeVirt allows you to: 
+- Provision, manage, and control VMs simultaneously with container resources
+- Integrate with existing Kubernetes deployments seamlessly
+- Run VMs within regular Kubernetes pods
+- Access standard pod networking and storage
+- Manage VMs using standard Kubernetes tools such as kubectl
+- Run full virtual machines on Kubernetes alongside regular containers

@@ -125,7 +125,9 @@ Here are some keywords 🗝️:
 5. Go global in minutes
 ### OOPs Concept
 ![xa drawio](https://github.com/mohitpoonia/mohitpoonia/assets/142895350/abde0c1e-9e1e-4765-8a40-d2ef0c4a0b4e)
-
+#### C-groups 
+Cgroups allow you to allocate resources — such as CPU time, system memory, network bandwidth, or combinations of these resources
+1. Resource limiting - groups can be set to not exceed a configured memory limit, which also includes the file system cache
 # ▶️Often used Linux Commands
 1. **ls** - List directory content
 2. **cd** - Change directory
@@ -290,7 +292,7 @@ Terraform allows users to:
 - Build, change, and version infrastructure safely and efficiently
 - Automatically manage configuration, plugins, and state
 - Add all config files into a VCS to safely manage and track changes
-**Replication** - it involves sharing of  information to ensure consistency between redundant resources, such as software or hardware components, to improve reliability, fault-tolerance, or accessibility.
+58. **Replication** - it involves sharing of  information to ensure consistency between redundant resources, such as software or hardware components, to improve reliability, fault-tolerance, or accessibility.
 - Data replication, where the same data is stored on multiple storage devices
 
 ### ▶️ NETWORK

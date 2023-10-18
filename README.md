@@ -338,6 +338,11 @@ TUN can tunnel data packets of varied nature, including:
   - CockroachDB - used in replication layer
   - etcd -
     - replicated log - provides append-only storage of log entries(new data can be appended to the storage, but where existing data is immutable)
+**Hyperscale** - Hyperscale is a computing architecture that can scale as demand increases. Hyperscale cloud computing is a multi-tenant platform that allows users to access computing resources on-demand. These resources are available globally over the internet, enabling users to provision and scale resources instantly.
+**Protobuf** - Protocol Buffers (Protobuf) is a free and open-source data format developed by Google. It's used to serialize structured data for storage and communication over a network. Protobuf is great for the following reasons: 
+- Low data volume
+- Persistence
+- Backward-compatible serialization
 67. **KubeVirt** - KubeVirt is an open-source project that allows virtual machines (VMs) and containerized workloads to coexist within Kubernetes clusters.
   KubeVirt allows you to: 
 - Provision, manage, and control VMs simultaneously with container resources
@@ -350,3 +355,8 @@ TUN can tunnel data packets of varied nature, including:
   - KVM - Open Source Hypervisor for Linux
   - XEN - Type I Hypervisor currently developed by Linux Foundation
   - ESXi (From VMware)
+**PAT** - Port Address Translation (PAT) is a network device feature that translates TCP or UDP communications between hosts on a private network and hosts on a public network. PAT allows a single public IP address to be used by many hosts on the private network. PAT works by: 
+- Assigning each device a unique port number
+- Routing incoming traffic accordingly
+**IaC** - Infrastructure as Code (IaC) is a DevOps practice that uses code to manage and provision infrastructure. It allows developers and operations teams to automatically manage and provision infrastructure through code.
+**HCL** - HCL stands for HashiCorp Configuration Language. It's a configuration language that's designed to be both human and machine-readable. It's used in infrastructure automation to help developers write and deploy cloud resources across multiple platforms.

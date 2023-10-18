@@ -276,7 +276,13 @@ It's used to:
 - Virtualized networking (software-defined networking)
 - Direct-attached storage media (HDDs, SSDs, NVMe)
 HCI unifies the datacenter stack elements into an abstracted layer of available IT resources.
-56. **DHCP** - Dynamic Host Configuration Protocol (DHCP) is a network protocol that automatically assigns IP addresses to devices on a network. DHCP uses a client-server architecture to provide configuration information such as: IP address, Default route, DNS server addresses, Subnet mask, Default gateway. 
+56. **DHCP** - Dynamic Host Configuration Protocol (DHCP) is a network protocol that automatically assigns IP addresses to devices on a network. DHCP uses a client-server architecture to provide configuration information such as: IP address, Default route, DNS server addresses, Subnet mask, Default gateway.
+**Consensus** - Consensus is a protocol designed to achieve reliability in a network involving multiple users or nodes.It includes:
+- Agreement: All correct processes must agree on the same value.
+- Weak validity: For each correct process, its output must be the input of some correct process.
+- trong validity: If all correct processes receive the same input value, then they must all output that value.
+- Termination: All processes must eventually decide on an output value
+**PAXOS** - The Paxos algorithm provides a mechanism that enables distributed systems to continue working in a predictable way in the event of network partitioning or server failures.
 57. **Terraform** - Terraform is an open-source tool that automates infrastructure tasks. It's used by DevOps teams to provision cloud resources.
 Terraform allows users to: 
 - Build infrastructure through code
@@ -284,6 +290,9 @@ Terraform allows users to:
 - Build, change, and version infrastructure safely and efficiently
 - Automatically manage configuration, plugins, and state
 - Add all config files into a VCS to safely manage and track changes
+**Replication** - it involves sharing of  information to ensure consistency between redundant resources, such as software or hardware components, to improve reliability, fault-tolerance, or accessibility.
+- Data replication, where the same data is stored on multiple storage devices
+
 ### ▶️ NETWORK
 58. **TAP** - A network tap (TAP) is a hardware device that allows you to monitor and access data that is transmitted over a network. TAP stands for "Traffic Access Point" or "Test Access Point".
 Network taps are typically used in network security applications to: 
@@ -322,7 +331,12 @@ TUN can tunnel data packets of varied nature, including:
   ![osi model](https://github.com/mohitpoonia/mohitpoonia/assets/142895350/fd698805-5ade-4644-b014-ca4c762b3fc6)
 65. **Load Balancing Algorithms**
   ![lb-algorithms](https://github.com/mohitpoonia/mohitpoonia/assets/142895350/4432276d-5f25-4630-a6e0-ac69a6112167)
-66. **KubeVirt** - KubeVirt is an open-source project that allows virtual machines (VMs) and containerized workloads to coexist within Kubernetes clusters.
+66. **RAFT** - Raft is a consensus algorithm.
+  Use Cases Of Raft:
+  - CockroachDB - used in replication layer
+  - etcd -
+    - replicated log - provides append-only storage of log entries(new data can be appended to the storage, but where existing data is immutable)
+67. **KubeVirt** - KubeVirt is an open-source project that allows virtual machines (VMs) and containerized workloads to coexist within Kubernetes clusters.
   KubeVirt allows you to: 
 - Provision, manage, and control VMs simultaneously with container resources
 - Integrate with existing Kubernetes deployments seamlessly
@@ -330,3 +344,7 @@ TUN can tunnel data packets of varied nature, including:
 - Access standard pod networking and storage
 - Manage VMs using standard Kubernetes tools such as kubectl
 - Run full virtual machines on Kubernetes alongside regular containers
+68. **Libvert** - Open SOurce developed by Redhat to manage virtualization. It can be used to manage
+  - KVM - Open Source Hypervisor for Linux
+  - XEN - Type I Hypervisor currently developed by Linux Foundation
+  - ESXi (From VMware)

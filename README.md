@@ -234,6 +234,8 @@ Here are some keywords 🗝️:
 **APIs**
 ![6b437484-1fd8-4b59-ba05-46bb3352b053_2904x2559](https://github.com/mohitpoonia/mohitpoonia/assets/142895350/80e009f8-092b-4c12-883c-b2513eb92b78)
 
+**LXC** - 
+LXC stands for Linux Containers. It's an open-source container platform that allows users to create and run multiple isolated Linux virtual environments (VEs) on a single control host. LXC uses a single Linux kernel to run these isolated systems, or containers. 
 
 50. **GreenField** vs **Brownfield Application**
 
